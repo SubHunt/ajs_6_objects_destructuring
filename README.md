@@ -1,5 +1,5 @@
 # For..in
-[![Build status](https://ci.appveyor.com/api/projects/status/5mrrelp5ewnw4hco?svg=true)](https://ci.appveyor.com/project/SubHunt/ajs-6-object-forin)
+[![Build status](https://ci.appveyor.com/api/projects/status/kf1h2lwq4mdned4r?svg=true)](https://ci.appveyor.com/project/SubHunt/ajs-6-objects-destructuring)
 
 # Домашнее задание к лекции «Object, Reflection и Proxy»
 
